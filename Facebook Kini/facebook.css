@@ -1,0 +1,67 @@
+/*element selector */
+h2{
+    color: blue;
+    width: 50px;
+    height: 50px;
+    margin-top: 150px;
+    margin-left: 20rem;
+    font-family: sans-serif;
+}
+.dged{
+    font-family: inherit;
+    margin-left: 20rem;
+
+}
+form{
+    border: 1px solid;
+    width: 330px;
+    padding: 20px;
+    margin-left: 60rem;
+    position: relative;
+    bottom: 200px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.r{
+    width: 300px;
+    height: 35px;
+    background-color: #4267b2;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: white;
+    border-style: none;
+}
+a{
+    margin-left: 100px;
+}
+input{
+    width: 300px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 15px;
+    font-size: 15px;
+    border-style: 0.5px;
+
+}
+.d{
+    width: 300px;
+    height: 35px;
+    background-color: limegreen;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: white;
+    border-style: none;
+}
+.rte{
+    margin-left: 62rem;
+    position: relative;
+    bottom: 13rem;
+    font-family: inherit;
+}
